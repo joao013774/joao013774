@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou [João vitor]
 
-<!--
-**joao013774/joao013774** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+eu sou estudante e me identifico com sasuke porque eu vivo com o ódio do meu irmão
 
-Here are some ideas to get you started:
+## Tecnologias que estou estudando
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##Objetivos
+	## Uma frase ou citação ou personagem que represente você
+## Contato
+- E-mail: seuemail@email.com
